@@ -61,5 +61,5 @@ const processFormData = (e) => {
   }
 }
 
-// Event Listener
+// Event Listeners
 form.addEventListener("submit", processFormData);
